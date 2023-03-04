@@ -33,73 +33,73 @@ local Window = Rayfield:CreateWindow({
  local Button = Tab:CreateButton({
     Name = "fe ravanger hands",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/E4ckPJwZ%27))(
+    loadstring(game:HttpGet('https://pastebin.com/raw/E4ckPJwZ%27))(
  })
 
  local Button = Tab:CreateButton({
     Name = "fe alpha gattling",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/Sifa7h5Y%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/Sifa7h5Y%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Vereus",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/cwXewdMv%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/cwXewdMv%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Rock",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/UEweFZuV%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/UEweFZuV%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Dark Creature",
     Callback = function()
-        loadstring(game:HttpGet(('https://pastebin.com/raw/pF3atfQF%27),true))()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/pF3atfQF%27),true))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Elio's Wizard Shooter",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/0uC1m8DT%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/0uC1m8DT%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Psychopath Of Axe",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/94rj33js%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/94rj33js%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Villian",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/ySiL7rza%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/ySiL7rza%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "FE Void Boss",
     Callback = function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/WEifMP4Q%27))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/WEifMP4Q%27))()
  })
 
  local Button = Tab:CreateButton({
     Name = "Fe Devil Glitcher",
     Callback = function()
-        loadstring(game.HttpGet("https://pastebin.com/raw/XD2gqEte%22))();
+    loadstring(game.HttpGet("https://pastebin.com/raw/XD2gqEte%22))();
  })
 
  local Button = Tab:CreateButton({
     Name = "Fe Psychopath",
     Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/dyhu4DE8%22))();
+    loadstring(game:HttpGet("https://pastebin.com/raw/dyhu4DE8%22))();
  })
 
  local Button = Tab:CreateButton({
     Name = "clavier pc gui v2",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
  })
 
 Rayfield:LoadConfiguration()
