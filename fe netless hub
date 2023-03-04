@@ -91,7 +91,7 @@ local Window = Rayfield:CreateWindow({
  })
 
  local Button = Tab:CreateButton({
-    Name = "Fe Psychopath ",
+    Name = "Fe Psychopath",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/dyhu4DE8%22))();
  })
